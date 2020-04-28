@@ -1,0 +1,2 @@
+Time private key: 158.1303095817566
+Time public key: 0.031015634536743164
